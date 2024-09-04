@@ -1,1 +1,1 @@
-# samrtContract
+# Smart Contract
